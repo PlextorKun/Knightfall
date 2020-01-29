@@ -1,0 +1,820 @@
+fileFormatVersion: 2
+guid: 532d89cce32ef33469a10c43c44556ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2782836665789986762
+    second: env_ground_0
+  - first:
+      213: 6637455614210474540
+    second: env_ground_1
+  - first:
+      213: -5058560162748447859
+    second: env_ground_2
+  - first:
+      213: 2929950904672563563
+    second: env_ground_3
+  - first:
+      213: 7130633397967381619
+    second: env_ground_4
+  - first:
+      213: -4311885149137203828
+    second: env_ground_5
+  - first:
+      213: -5371819772058992598
+    second: env_ground_6
+  - first:
+      213: -8428063975171573973
+    second: env_ground_7
+  - first:
+      213: 7770080440571327581
+    second: env_ground_8
+  - first:
+      213: -2384425090723788689
+    second: env_ground_9
+  - first:
+      213: 2827619403745895511
+    second: env_ground_10
+  - first:
+      213: -8031030576105267224
+    second: env_ground_11
+  - first:
+      213: 7789899911944494111
+    second: env_ground_12
+  - first:
+      213: -9110329931068465828
+    second: env_ground_13
+  - first:
+      213: 3787543183262747789
+    second: env_ground_14
+  - first:
+      213: -4273454622082669958
+    second: env_ground_15
+  - first:
+      213: 8488042998240854368
+    second: env_ground_16
+  - first:
+      213: 2768182140312440562
+    second: env_ground_17
+  - first:
+      213: 5253105455750098979
+    second: env_ground_18
+  - first:
+      213: -3851761324628544306
+    second: env_ground_19
+  - first:
+      213: 3799021305408291019
+    second: env_ground_20
+  - first:
+      213: 5243446140276464743
+    second: env_ground_21
+  - first:
+      213: 8467375619425056562
+    second: env_ground_22
+  - first:
+      213: 778527646811231643
+    second: env_ground_23
+  - first:
+      213: 8537531731111758989
+    second: env_ground_24
+  - first:
+      213: -4655879827129827720
+    second: env_ground_25
+  - first:
+      213: 6714858745654368616
+    second: env_ground_26
+  - first:
+      213: -2142948528512735155
+    second: env_ground_27
+  - first:
+      213: 6790296377891678581
+    second: env_ground_28
+  - first:
+      213: -6690829623150058943
+    second: env_ground_29
+  - first:
+      213: 7173265673725745901
+    second: env_ground_30
+  - first:
+      213: -4121915864541026036
+    second: env_ground_31
+  - first:
+      213: -6523502346638532111
+    second: env_ground_32
+  - first:
+      213: 5659905415623020448
+    second: env_ground_33
+  - first:
+      213: -8109034803477463248
+    second: env_ground_34
+  - first:
+      213: -6326159396874922370
+    second: env_ground_35
+  - first:
+      213: -7287555722988221646
+    second: env_ground_36
+  - first:
+      213: 3696912729871100108
+    second: env_ground_37
+  - first:
+      213: 5960838793306249308
+    second: env_ground_38
+  - first:
+      213: 2098896351094202178
+    second: env_ground_39
+  - first:
+      213: -6804901023937508932
+    second: env_ground_40
+  - first:
+      213: 5065935832426814805
+    second: env_ground_41
+  - first:
+      213: -6797165367768058338
+    second: env_ground_42
+  - first:
+      213: -1287634913081811373
+    second: env_ground_43
+  - first:
+      213: -3073734667434394451
+    second: env_ground_44
+  - first:
+      213: 6686720945928080360
+    second: env_ground_45
+  - first:
+      213: 5445261804410970744
+    second: env_ground_46
+  - first:
+      213: 8013520353499298693
+    second: env_ground_47
+  - first:
+      213: -5181471930213711494
+    second: env_ground_48
+  - first:
+      213: -9025698121725723514
+    second: env_ground_49
+  - first:
+      213: -169415181205700170
+    second: env_ground_50
+  - first:
+      213: -6855731071212705692
+    second: env_ground_51
+  - first:
+      213: -1876011593000548925
+    second: env_ground_52
+  - first:
+      213: 5733648006151052255
+    second: env_ground_53
+  - first:
+      213: -5408739497243792456
+    second: env_ground_54
+  - first:
+      213: 1966298312479658221
+    second: env_ground_55
+  - first:
+      213: -3425984746767668002
+    second: env_ground_56
+  - first:
+      213: 3481725237740798357
+    second: env_ground_57
+  - first:
+      213: -7387031932201058493
+    second: env_ground_58
+  - first:
+      213: -5759028106966751011
+    second: env_ground_59
+  - first:
+      213: 4763999341655327030
+    second: env_ground_60
+  - first:
+      213: -3592134522380154345
+    second: env_ground_61
+  - first:
+      213: 6474695386255267870
+    second: env_ground_62
+  - first:
+      213: 1094127291885268306
+    second: env_ground_63
+  - first:
+      213: -5512549803590628690
+    second: env_ground_64
+  - first:
+      213: 8148623811212033042
+    second: env_ground_65
+  - first:
+      213: -2626322831672538702
+    second: env_ground_66
+  - first:
+      213: 5844682797214812739
+    second: env_ground_67
+  - first:
+      213: -7314992614551689814
+    second: env_ground_68
+  - first:
+      213: -672607407480802643
+    second: env_ground_69
+  - first:
+      213: 1141660537932440129
+    second: env_ground_70
+  - first:
+      213: 6006031490757974319
+    second: env_ground_71
+  - first:
+      213: 7807371663773724700
+    second: env_ground_72
+  - first:
+      213: 7749722530115288959
+    second: env_ground_73
+  - first:
+      213: 7635890387479302605
+    second: env_ground_74
+  - first:
+      213: -344172713803226396
+    second: env_ground_75
+  - first:
+      213: -5790252680054476585
+    second: env_ground_76
+  - first:
+      213: -2693039172143443367
+    second: env_ground_77
+  - first:
+      213: -2020684555969652664
+    second: env_ground_78
+  - first:
+      213: -7931909539306838430
+    second: env_ground_79
+  - first:
+      213: -6991150154036805449
+    second: env_ground_80
+  - first:
+      213: 3217356753596416975
+    second: env_ground_81
+  - first:
+      213: 5631484951271691040
+    second: env_ground_82
+  - first:
+      213: 1149837599142713228
+    second: env_ground_83
+  - first:
+      213: 9175000833173610523
+    second: env_ground_84
+  - first:
+      213: 1647158151901952527
+    second: env_ground_85
+  - first:
+      213: -2533577477423642103
+    second: env_ground_86
+  - first:
+      213: 3008443982532623511
+    second: env_ground_87
+  - first:
+      213: 2192254803180920748
+    second: env_ground_88
+  - first:
+      213: 1229736663977868274
+    second: env_ground_89
+  - first:
+      213: -8170961332146519175
+    second: env_ground_90
+  - first:
+      213: -4932247272170333842
+    second: env_ground_91
+  - first:
+      213: -1134375458134360693
+    second: env_ground_92
+  - first:
+      213: -560223064968068950
+    second: env_ground_93
+  - first:
+      213: -1982260339907256405
+    second: env_ground_94
+  - first:
+      213: 4802983885674719592
+    second: env_ground_95
+  - first:
+      213: -6111808658822867315
+    second: env_ground_96
+  - first:
+      213: 7875490762182832563
+    second: env_ground_97
+  - first:
+      213: -8370947508436939522
+    second: env_ground_98
+  - first:
+      213: 5865221844671196804
+    second: env_ground_99
+  - first:
+      213: -5839841192941017626
+    second: env_ground_100
+  - first:
+      213: -1676126833748370649
+    second: env_ground_101
+  - first:
+      213: 4079310065728535957
+    second: env_ground_102
+  - first:
+      213: 5181790449493591468
+    second: env_ground_103
+  - first:
+      213: -2624007100732274110
+    second: env_ground_104
+  - first:
+      213: 4451368070004267708
+    second: env_ground_105
+  - first:
+      213: 8394059649267300786
+    second: env_ground_106
+  - first:
+      213: -5209523016088211008
+    second: env_ground_107
+  - first:
+      213: -183892840922236664
+    second: env_ground_108
+  - first:
+      213: -8133675889298543582
+    second: env_ground_109
+  - first:
+      213: 3256097771883129067
+    second: env_ground_110
+  - first:
+      213: -3940665678760229993
+    second: env_ground_111
+  - first:
+      213: 2508740077469093288
+    second: env_ground_112
+  - first:
+      213: 6959731626543552750
+    second: env_ground_113
+  - first:
+      213: -1917148722285643922
+    second: env_ground_114
+  - first:
+      213: -2283172611319756377
+    second: env_ground_115
+  - first:
+      213: 6468657248290704879
+    second: env_ground_116
+  - first:
+      213: 6227623699321554674
+    second: env_ground_117
+  - first:
+      213: 6485111634218177056
+    second: env_ground_118
+  - first:
+      213: -7828974087001862534
+    second: env_ground_119
+  - first:
+      213: 623685889962645535
+    second: env_ground_120
+  - first:
+      213: -6863088556283268916
+    second: env_ground_121
+  - first:
+      213: 1276124916800370828
+    second: env_ground_122
+  - first:
+      213: 5999300763278917898
+    second: env_ground_123
+  - first:
+      213: 4002805575027916084
+    second: env_ground_124
+  - first:
+      213: 677043289103094484
+    second: env_ground_125
+  - first:
+      213: -5546758066906740920
+    second: env_ground_126
+  - first:
+      213: -4758258507400180051
+    second: env_ground_127
+  - first:
+      213: 6093418487849345335
+    second: env_ground_128
+  - first:
+      213: 5581193957402882714
+    second: env_ground_129
+  - first:
+      213: -5744577725396011900
+    second: env_ground_130
+  - first:
+      213: 297340577005341710
+    second: env_ground_131
+  - first:
+      213: 3727191300701007165
+    second: env_ground_132
+  - first:
+      213: 3512221130019161290
+    second: env_ground_133
+  - first:
+      213: -3484298395611341469
+    second: env_ground_134
+  - first:
+      213: 8957694948673761038
+    second: env_ground_135
+  - first:
+      213: 742822488608249886
+    second: env_ground_136
+  - first:
+      213: -3920543842186637104
+    second: env_ground_137
+  - first:
+      213: -1365029294508115840
+    second: env_ground_138
+  - first:
+      213: -6506837135978051131
+    second: env_ground_139
+  - first:
+      213: -7520118374869576648
+    second: env_ground_140
+  - first:
+      213: 7401859849905313112
+    second: env_ground_141
+  - first:
+      213: -2607303702194310602
+    second: env_ground_142
+  - first:
+      213: 6610994813536988495
+    second: env_ground_143
+  - first:
+      213: -5227985496992432809
+    second: env_ground_144
+  - first:
+      213: -3541885760492723650
+    second: env_ground_145
+  - first:
+      213: 5212399907808208346
+    second: env_ground_146
+  - first:
+      213: -7464849658014682565
+    second: env_ground_147
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: env_ground_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 423
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192f623190afa4e4f981475b35b9a4b6
+      internalID: 6637455614210474540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_ground_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 448
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1c1802371653740a96f01ccbe497fd
+      internalID: -5058560162748447859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_ground_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 128
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb420ecd0a34ab4dbb7b75201da387b
+      internalID: 2929950904672563563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_ground_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 19
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dccd264d7fecd4d91a58bc911dee57
+      internalID: 7130633397967381619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_ground_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 112
+        width: 61
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac51a10c503f377438b0c309d658d1dc
+      internalID: -4311885149137203828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_ground_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a7573626cd02d4c9ab53d19adc54d3
+      internalID: -5371819772058992598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_ground_7
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 247
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 310fcfc96c231464b849b52250e36435
+      internalID: -8428063975171573973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_ground_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 64
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4637df17396801a42b41edf1cd29fd24
+      internalID: 7770080440571327581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_ground_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c24d138639348747a14897345b8383a
+      internalID: -2384425090723788689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_ground_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 319
+        width: 48
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d8d273f447aa741876b1160f8ee4aa
+      internalID: 2827619403745895511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_ground_11
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 326
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716edaf2dba9ff54e90ce1359b6512b8
+      internalID: -8031030576105267224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_ground_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 393
+        width: 96
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85535bcdc3fb254895daa3933e59c89
+      internalID: 7789899911944494111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: env_ground_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395528d7b9ff1d042a996071659f932b
+      internalID: 2782836665789986762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6fa2464f21b821c43ac7c6ea947b4098
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
