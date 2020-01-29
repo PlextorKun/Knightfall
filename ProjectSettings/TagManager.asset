@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Death
+  - Hero
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemies
+  - Ground
+  - Hero
+  - Death
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2976980819
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Environment
+    uniqueID: 649400651
+    locked: 0
+  - name: Foreground
+    uniqueID: 2592552773
+    locked: 0
+  - name: Enemies
+    uniqueID: 3279174759
+    locked: 0
+  - name: Hero
+    uniqueID: 1776071263
+    locked: 0
+  - name: UI/Camera
+    uniqueID: 3037842707
+    locked: 0
